@@ -1,6 +1,5 @@
 # React Markdown Previewer!
 
-## This is a sub-heading...
 ### Packages used:
 1. react-markdown
 1. react-syntax-highlighter
